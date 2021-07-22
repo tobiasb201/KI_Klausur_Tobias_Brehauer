@@ -1,4 +1,8 @@
 # KI_Klausur_Tobias_Brehauer
+
+Betriebssystem:
+<br>
+Windows10 (64bit)
  <br>
  Student:Tobias Brehauer   Matrikelnummer:1170088
  <br>
