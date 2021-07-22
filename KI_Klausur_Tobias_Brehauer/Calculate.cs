@@ -128,7 +128,6 @@ namespace KI_Klausur_Tobias_Brehauer
             }
             //Setze die Pivotspalte auf 1
             //Errechne den multiplier aller anderen Zeilen
-            Console.WriteLine(matrixArray[pivotRow, pivotColum]);
             for (int o = 0; o < matrixArray.GetLength(0); o++)
             {
                 for (int j = 0; j < matrixArray.GetLength(1); j++)
