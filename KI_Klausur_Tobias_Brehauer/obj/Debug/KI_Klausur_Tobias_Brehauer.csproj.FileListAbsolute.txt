@@ -1,0 +1,7 @@
+D:\HSHL\Künstliche Intelligenz\KI_Klausur_Tobias_Brehauer\KI_Klausur_Tobias_Brehauer\bin\Debug\KI_Klausur_Tobias_Brehauer.exe.config
+D:\HSHL\Künstliche Intelligenz\KI_Klausur_Tobias_Brehauer\KI_Klausur_Tobias_Brehauer\bin\Debug\KI_Klausur_Tobias_Brehauer.exe
+D:\HSHL\Künstliche Intelligenz\KI_Klausur_Tobias_Brehauer\KI_Klausur_Tobias_Brehauer\bin\Debug\KI_Klausur_Tobias_Brehauer.pdb
+D:\HSHL\Künstliche Intelligenz\KI_Klausur_Tobias_Brehauer\KI_Klausur_Tobias_Brehauer\obj\Debug\KI_Klausur_Tobias_Brehauer.csprojAssemblyReference.cache
+D:\HSHL\Künstliche Intelligenz\KI_Klausur_Tobias_Brehauer\KI_Klausur_Tobias_Brehauer\obj\Debug\KI_Klausur_Tobias_Brehauer.csproj.CoreCompileInputs.cache
+D:\HSHL\Künstliche Intelligenz\KI_Klausur_Tobias_Brehauer\KI_Klausur_Tobias_Brehauer\obj\Debug\KI_Klausur_Tobias_Brehauer.exe
+D:\HSHL\Künstliche Intelligenz\KI_Klausur_Tobias_Brehauer\KI_Klausur_Tobias_Brehauer\obj\Debug\KI_Klausur_Tobias_Brehauer.pdb
